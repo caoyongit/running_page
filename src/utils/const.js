@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+  'pk.eyJ1IjoiY2FveW9uZ2l0IiwiYSI6ImNrbHM0OGwzMDAwcTcydW81MWdiZmN6a2UifQ.hZ3zYWwI-QInxbFBhaQw3g';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -45,10 +45,10 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'https://www.fishblog.ml/img/100.png'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://github.com/yihong0618/running_page' },
-  { text: 'About', link: 'https://github.com/yihong0618/running_page' },
+  { text: 'Blog', link: 'https://www.fishblog.ml' },
+  { text: 'About', link: 'https://www.fishblog.ml/about' },
 ];
 
 const nike = 'rgb(224,237,94)';
